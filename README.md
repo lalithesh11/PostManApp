@@ -1,4 +1,4 @@
-# linkedin-clone
+# Postman-clone
 
 [Website](https://lalithesh11.github.io/PostManApp/)
 
